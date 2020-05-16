@@ -1,0 +1,112 @@
+ Acacia Boat
+ Armor Stand
+ Bat Spawn Egg
+ Bee Spawn Egg
+ Beetroot Seeds
+ Birch Boat
+ Blaze Spawn Egg
+ Bottle o' Enchanting
+ Bow
+ Bucket
+ Bucket of Cod
+ Bucket of Pufferfish
+ Bucket of Salmon
+ Bucket of Tropical Fish
+ Carrot
+ Cat Spawn Egg
+ Cave Spider Spawn Egg
+ Chicken Spawn Egg
+ Cocoa Beans
+ Cod Spawn Egg
+ Cow Spawn Egg
+ Creeper Spawn Egg
+ Crossbow
+ Dark Oak Boat
+ Dolphin Spawn Egg
+ Donkey Spawn Egg
+ Drowned Spawn Egg
+ Egg
+ Elder Guardian Spawn Egg
+ Ender Pearl
+ End Crystal
+ Enderman Spawn Egg
+ Endermite Spawn Egg
+ Evoker Spawn Egg
+ Eye of Ender
+ Firework Rocket
+ Fire Charge
+ Fishing Rod
+ Flint and Steel
+ Fox Spawn Egg
+ Ghast Spawn Egg
+ Guardian Spawn Egg
+ Hoglin Spawn Egg
+ Horse Spawn Egg
+ Husk Spawn Egg
+ Item Frame
+ Jungle Boat
+ Lava Bucket
+ Lead
+ Lingering Potions
+ Llama Spawn Egg
+ Magma Cube Spawn Egg
+ Melon Seeds
+ Minecart
+ Minecart with Chest
+ Minecart with Command Block
+ Minecart with Furnace
+ Minecart with Hopper
+ Minecart with TNT
+ Mooshroom Spawn Egg
+ Mule Spawn Egg
+ Nether Wart
+ Oak Boat
+ Ocelot Spawn Egg
+ Painting
+ Panda Spawn Egg
+ Parrot Spawn Egg
+ Phantom Spawn Egg
+ Pig Spawn Egg
+ Piglin Spawn Egg
+ Pillager Spawn Egg
+ Polar Bear Spawn Egg
+ Potato
+ Pufferfish Spawn Egg
+ Pumpkin Seeds
+ Rabbit Spawn Egg
+ Ravager Spawn Egg
+ Redstone Dust
+ Salmon Spawn Egg
+ Sheep Spawn Egg
+ Shulker Spawn Egg
+ Silverfish Spawn Egg
+ Skeleton Horse Spawn Egg
+ Skeleton Spawn Egg
+ Slime Spawn Egg
+ Snowball
+ Spider Spawn Egg
+ Splash Potions
+ Spruce Boat
+ Squid Spawn Egg
+ Stray Spawn Egg
+ Strider Spawn Egg
+ String
+ Sweet Berries
+ Trader Llama Spawn Egg
+ Trident
+ Tropical Fish Spawn Egg
+ Turtle Spawn Egg
+ Vex Spawn Egg
+ Villager Spawn Egg
+ Vindicator Spawn Egg
+ Wandering Trader Spawn Egg
+ Water Bucket
+ Wheat Seeds
+ Witch Spawn Egg
+ Wither Skeleton Spawn Egg
+ Wolf Spawn Egg
+ Zoglin Spawn Egg
+ Zombie Horse Spawn Egg
+ Zombie Pigman Spawn Egg
+ Zombie Spawn Egg
+ Zombie Villager Spawn Egg

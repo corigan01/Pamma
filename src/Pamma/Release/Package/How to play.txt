@@ -1,0 +1,30 @@
+# HOW TO START
+To start the game click on the 'Chest Quest.exe' file.
+------------------------------------------------------
+
+# HOW TO MOVE
+Use W for up
+Use A for Left
+Use S for Down
+Use D for Right
+These are the standerd Movement keys in all video games.
+------------------------------------------------------
+
+# HOW TO CHEST
+Once you see a chest, Open it by clicking on it.
+To open and close your inventory use the 'e' key on your keyboard.
+------------------------------------------------------
+
+# QUESTIONS
+If you have anymore questions Just ask.
+Also if the game crashes just open it back up again and it will be fine.
+------------------------------------------------------
+
+# MULTIPLAYER SERVER
+Also to connect to the server for multiplayer, text or email me and I can start it up!
+------------------------------------------------------
+
+# Items.txt FILE
+
+If you want to change what the chests give you as a item just add or remove them from the items.txt file that is included in this folder
+------------------------------------------------------

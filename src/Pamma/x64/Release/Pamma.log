@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2001: unresolved external symbol InitWindow
+C:\Users\corig\Source\Repos\Pamma\x64\Release\Pamma.exe : fatal error LNK1120: 1 unresolved externals
